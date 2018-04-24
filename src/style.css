@@ -1,0 +1,10 @@
+@font-face{
+    font-family: Beyond;
+    src: url('./Beyond Wonderland.ttf');
+}
+.hello {
+    color: red;
+   background: url('./icon.png');
+   font-family: Beyond;
+}
+  
